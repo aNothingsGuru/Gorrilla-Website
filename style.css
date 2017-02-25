@@ -1,0 +1,16 @@
+html {
+	font-size: 10px; /* px means 'pixels'
+	font-family: 'Aladin', cursive;
+
+	h1 {
+		font-size: 74px;
+		text-align: center;
+		color: green;
+	}
+
+	p, li {
+		font-size: 18px;
+		line-height: 2;
+		letter-spacing: 1px;
+	}
+}
